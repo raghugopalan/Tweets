@@ -1,3 +1,2 @@
 User-agent: *
 Disallow:
-Sitemap: https://tweets.pages.dev/sitemap.xml
